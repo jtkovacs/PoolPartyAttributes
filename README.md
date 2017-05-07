@@ -15,7 +15,7 @@ However, attributes can be exported to an RDF-JSON format (.rf). This script ext
 5. Enter the command:
 
 ```Bash
-python3 ppatt.py your_filename.rf
+$ python3 ppatt.py your_filename.rf
 ```
 
-6. If you run into problems, make sure that you have **Python 3** with its **json** and **sys** libraries installed.
+6. If you run into problems, make sure that you have **Python 3** with its **json** and **sys** libraries installed
