@@ -1,6 +1,6 @@
 # PoolPartyAttributes
 
-
+<br>
 
 **When you have many attributes in PoolParty, it's easy to accidentally duplicate them because there's no attribute search interface, just a browsing interface:**
 
@@ -12,9 +12,9 @@
 
 **This script extracts all attribute names from this .rf file and outputs a sorted list to a plain text file.**
 
-
-
-
+<br>
+<br>
+<br>
 
 ## Usage
 
