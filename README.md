@@ -6,13 +6,16 @@
 
 <img src="ppatts.png" width="500px">
 
+<br>
+
 **However, attributes can be exported to RDF-JSON format (.rf):**
 
 <img src="rdf-json.png" width="400px">
 
+<br>
+
 **This script extracts all attribute names from this .rf file and outputs a sorted list to a plain text file.**
 
-<br>
 <br>
 <br>
 
