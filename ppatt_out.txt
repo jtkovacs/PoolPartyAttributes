@@ -1,0 +1,191 @@
+188 attributes were extracted
+
+
+Agile
+Agile?
+Al
+Alarm Armed
+Alarm Triggered
+Alcoholic
+Alpha Acid Range
+AppraisedValueUSD
+Aspect ratio
+AssetDate
+AssetType
+associationType
+Audience Age
+audioContentName
+audioObject
+audioObjectID
+audioObjectName
+Awards
+Bag Type
+Battery Status
+Best By
+Beta Acid Range
+Bitrate
+Bulb Brand
+Calories
+Calories Per Piece
+Calories/100 grams
+Codec
+Color
+Color
+Color Temperature
+Connection Type
+connectivityMethod
+Country of Origin
+Creator
+Creator
+Creator
+Creator
+Current Humidity
+Current Temperature
+Currently On
+Customizable
+Customizable Type
+Date Created
+Date of First Movie
+Date Retired
+Date Revised
+DateOfLastEstimatedValue
+Depth - CM
+Depth - Inches
+Developer
+deviceName
+deviceType
+Dialogue
+Diameter - inches
+Directions
+Directions
+Displays
+Downloadable Content 
+Duration
+Duration
+Edition 
+Encoder
+End Time
+Episodes
+Equipment Type
+Fan On
+First Movie Appearance
+Fixture Brand
+Fl. Oz.
+Form
+Form Changes
+Form Changes?
+format
+Format
+Format 
+Frame rate
+Gender
+GUID
+Health Condition
+Heat
+Height
+Height - Inches
+Host
+Illustrator
+Importance
+In Process?
+Ingredient Measurements
+Ingredients
+Initial Retail Price USD
+Initial US Release Year 
+Installation Date
+Installed By
+Interact
+isCarved
+isEmbossed
+isEmbossed
+Language
+LastEstimatedValue - USD
+Length - CM
+Length - Inches
+Location
+loudnessMethod
+loudnessRange
+Lumens
+Main Gameplay Duration Hrs
+Make
+Manufactured In
+Manufactured In
+Margin Controls
+Measures
+measuresWhat
+measuresWith
+Mechanical Shift Lock
+Mode
+Model
+Network
+Notecard Holder
+NumberOfStrings
+Operational Temperature (Maximum) - Farenheit
+Operational Temperature (Minimum) - Farenheit
+Oversized Carriage
+Pacing
+partType
+partTypeAnnotation
+partTypeAnnotation
+partTypeRef
+partTypeSource
+partTypeVersion
+Piano Atlas Serial Reference
+Pitable?
+Platform 
+Playable
+Popularity Level
+Power
+Premiere Date
+Preparation Time (mins)
+Publisher
+Ranking in A Definitive Ranking Of 25 Classic Disney Villains
+Rating
+Rating (out of 5)
+Recommends
+Region
+Ribbon Control Lever
+rightsLink
+rightsSummary
+Room
+Scale Length
+Schedule Type
+Seasons
+Serial Number
+Serial Number
+Series Title
+sound
+Start
+Start Time
+Status
+Streams
+subjectTypeAnnotation
+subjectTypeRef
+subjectTypeVersion
+Suggested Retail Price USD
+Supporting Stars
+Tabulator Keys
+Target Temperature
+Tea Bag Count
+Tea Bag Type
+Tea Type
+Title
+Tone
+Total Oil Range
+track
+Tracks
+Type Force Control
+Video Quality
+Video URL
+videoInfo
+Wattage
+Web URL
+Weight
+Weight
+Weight
+Weight - Imperial
+Weight - Metric
+Width - CM
+Width - Inches
+Year Made
+Year Made
