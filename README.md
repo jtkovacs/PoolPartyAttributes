@@ -4,7 +4,7 @@
 
 <img src="ppatts.png" width="500px">
 
-**However, attributes can be exported to an RDF-JSON format (.rf):**
+**However, attributes can be exported to RDF-JSON format (.rf):**
 
 <img src="rdf-json.png" width="400px">
 
