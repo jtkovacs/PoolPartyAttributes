@@ -4,7 +4,7 @@ When you have many attributes in PoolParty, it's easy to accidentally duplicate 
 
 <img src="ppatts.png" width="500px">
 
-However, attributes can be exported to an RDF-JSON format (.rf). This script extracts all attribute names from a PoolParty .rf file.
+However, attributes can be exported to an RDF-JSON format (.rf). This script extracts all attribute names from this .rf file.
 
 ## Usage
 
