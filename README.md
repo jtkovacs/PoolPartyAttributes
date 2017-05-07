@@ -1,6 +1,8 @@
 # PoolPartyAttributes
 
-When you have many attributes in PoolParty, it's easy to accidentally duplicate them because there's no attribute search interface:
+When you have many attributes in PoolParty, it's easy to accidentally duplicate them because there's no attribute search interface, just a browsing interface:
+
+<img src="ppatts.png" width="400px">
 
 ![](ppatts.png)
 
