@@ -8,7 +8,7 @@
 
 <br>
 
-**However, PoolParty lets you export your entire ontology (attributes, relations, and classes) to RDF-JSON format (.rf):**
+**However, PoolParty lets you export your entire ontology (attributes, relations, and classes) to several different formats, including RDF-JSON (.rf):**
 
 <img src="illos/rdf-json.png" width="400px">
 
