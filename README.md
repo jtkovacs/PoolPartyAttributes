@@ -19,5 +19,6 @@
 ```Bash
 $ python3 ppatt.py your_filename.rf
 ```
+4. Open the output file and check the beginning of the document for the total number of extracted terms; check this total against your PoolParty ontology
 
 If you run into problems, make sure that you have **Python 3** with its **json** and **sys** libraries installed
