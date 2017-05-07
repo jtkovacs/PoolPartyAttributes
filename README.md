@@ -4,13 +4,13 @@
 
 **When you have many attributes in PoolParty, it's easy to accidentally duplicate them because there's no attribute search interface, just a browsing interface:**
 
-<img src="ppatts.png" width="500px">
+<img src="illos/ppatts.png" width="500px">
 
 <br>
 
 **However, attributes can be exported to RDF-JSON format (.rf):**
 
-<img src="rdf-json.png" width="400px">
+<img src="illos/rdf-json.png" width="400px">
 
 <br>
 
