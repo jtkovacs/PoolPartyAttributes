@@ -12,7 +12,7 @@
 
 ## Usage
 
-To run this script, you need Python 3 with its **json** and **sys** libraries installed.
+To run this script, you need ***Python 3*** with its ***json*** and ***sys*** libraries installed.
 
 1. Export your PoolParty ontology to RDF-JSON format (.rf)
 2. Download `ppatts.py` to the same folder
