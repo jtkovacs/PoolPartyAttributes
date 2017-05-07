@@ -6,7 +6,6 @@ import sys
 try:
     # File & script must be colocated 
     file_in = sys.argv[1]
-    #file_in = "ppatt_in.rj"
 except:
     print("Please type a valid command, e.g: python3 ppatt.py filename.rj")
 
@@ -31,7 +30,12 @@ attribute_names.sort(key=lambda v: v.lower())
 
 
 # Write text file
-file_out = open("ppatt_out.txt", "w")
-file_out.write("{} attributes were extracted\n\n\n".format(len(attribute_names)))
-for a in attribute_names:
-    file_out.write(a)
+
+try:
+    file_out = open("ppatt_out.txt", "w")
+    for a in attribute_names:
+        file_out.write(a)
+    print("{} attributes were extracted\n\n\n".format(len(attribute_names)))
+except:
+    print("Sorry, extraction failed.")
+    
