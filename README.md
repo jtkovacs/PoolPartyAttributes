@@ -14,14 +14,12 @@
 
 <br>
 
-**This script extracts all attribute names from this .rf file and outputs a sorted list to a plain text file.**
+**This very simple script extracts all attribute names from a PoolParty .rf file and outputs a sorted list to a plain text file. To run this script, you need *Python 3* with its *json* and *sys* libraries installed.**
 
 <br>
 <br>
 
 ## Usage
-
-To run this script, you need ***Python 3*** with its ***json*** and ***sys*** libraries installed.
 
 1. Export your PoolParty ontology to RDF-JSON format (.rf)
 2. Download `ppatts.py` to the same folder
