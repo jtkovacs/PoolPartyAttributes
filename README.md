@@ -12,6 +12,8 @@
 
 ## Usage
 
+To run this script, you need Python 3 with its **json** and **sys** libraries installed.
+
 1. Export your PoolParty ontology to RDF-JSON format (.rf)
 2. Download `ppatts.py` to the same folder
 3. Open your terminal in the same folder, and enter the command:
@@ -20,7 +22,4 @@
 $ python3 ppatt.py your_filename.rf
 ```
 
-If you run into problems, make sure that you have **Python 3** with its **json** and **sys** libraries installed.
-
 4. Open the output file and check the beginning of the document for the total number of extracted terms; check this total against your PoolParty ontology
-
