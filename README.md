@@ -13,16 +13,12 @@
 ## Usage
 
 1. Export your PoolParty ontology to RDF-JSON format (.rf)
-2. Download ppatts.py to the same folder
+2. Download `ppatts.py` to the same folder
 3. Open your terminal in the same folder, and enter the command:
-
-<span style="padding-left:30px;">
 
 ```Bash
 $ python3 ppatt.py your_filename.rf
 ```
-
-</span>
 
 4. Open the output file and check the beginning of the document for the total number of extracted terms; check this total against your PoolParty ontology
 
