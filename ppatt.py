@@ -29,8 +29,6 @@ for row in raw_json.values():
 attribute_names.sort(key=lambda v: v.lower())
 
 
-# Write text file
-
 try:
     file_out = open("ppatt_out.txt", "w")
     for a in attribute_names:

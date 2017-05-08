@@ -29,4 +29,4 @@
 $ python3 ppatt.py your_filename.rj
 ```
 
-4. Open the output file (`ppatt_out.txt`), note the total# extracted terms at the top of the document, and check this total against your PoolParty ontology stats
+If successful, the attributes will be output to (`ppatt_out.txt`) and the total number of attributes extracted will print to the terminal; check this total against your PoolParty ontology stats.
