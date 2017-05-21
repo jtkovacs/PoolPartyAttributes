@@ -22,7 +22,7 @@
 ## Usage
 
 1. Export your PoolParty ontology to RDF-JSON format (.rj)
-2. Download `ppatts.py` to the same folder
+2. Download `ppatt.py` to the same folder
 3. Open your terminal in the same folder, and enter the command:
 
 ```Bash
