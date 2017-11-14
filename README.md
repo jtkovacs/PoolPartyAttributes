@@ -2,7 +2,7 @@
 
 <br>
 
-**When you have many attributes in PoolParty, it's easy to accidentally duplicate them because there's no attribute search interface, just a browsing interface:**
+**When you have many attributes in PoolParty, it's easy to accidentally duplicate them because there's no attribute search interface, just a browsing interface split into multiple pages:**
 
 <img src="illos/ppatts.png" width="500px">
 
